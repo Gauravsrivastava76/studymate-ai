@@ -1,0 +1,7 @@
+.streamlit/secrets.toml
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+_study_test.pdf
+_create_test_pdf.py

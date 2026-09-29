@@ -1,0 +1,7 @@
+streamlit
+pypdf
+google-genai
+ddgs
+pypdfium2
+pytesseract
+Pillow
